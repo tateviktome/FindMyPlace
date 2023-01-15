@@ -1,0 +1,22 @@
+[{
+    "id": "5812059b38fa82d3f07d23c9",
+    "created_at": "2016-10-27T13:48:11.000Z",
+    "width": 3072,
+    "height": 1728
+}, {
+    "id": "53c6925a498eee83f170edae",
+    "created_at": "2014-07-16T14:55:22.000Z",
+    "prefix": null,
+    "suffix": null,
+    "width": 720,
+    "height": 960,
+    "classifications": ["food"]
+}, {
+    "id": "53c6925a498eee83f170edae",
+    "created_at": "2014-07-16T14:55:22.000Z",
+    "prefix": "hasPrefix",
+    "suffix": "hasSuffix",
+    "width": 720,
+    "height": 960,
+    "classifications": ["food"]
+}]

@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct FindMyPlaceApp: App {
+    let store = Store()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchPlacesView()
+                .environmentObject(store)
+                .preferredColorScheme(.light)
         }
     }
 }
